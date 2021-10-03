@@ -13,8 +13,7 @@ Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasu
 4. Pengujian : akan dilakukan penggabungan modul yang sudah dibuat pada tahap sebelumnya. Setelah proses integrasi sistem telah selesai, berikutnya masuk pada pengujian modul.
 5. Pengoperasian : Setelah dilakukan pengujian sistem, maka akan masuk pada tahap produk dan pemakaian perangkat lunak oleh pengguna (user).
 
-##### Kelebihan & kekurangan
-Kelebihan : Mudah dalam pengelolaan proyek, dokumen dihasilkan setiap akhir fase, fase dijalankan setelah fase sebelumnya selesai, struktur sistem jelas.
-
-Kelemahan : Proyek dunia nyata jarang mengikuti alur proses, Kesulitan jika terjadi perubahan kebutuhan, waktu pengerjaan bertambah, dll.
+##### Kelebihan & kelemahan
+* Kelebihan : Mudah dalam pengelolaan proyek, dokumen dihasilkan setiap akhir fase, fase dijalankan setelah fase sebelumnya selesai, struktur sistem jelas.
+* Kelemahan : Proyek dunia nyata jarang mengikuti alur proses, Kesulitan jika terjadi perubahan kebutuhan, waktu pengerjaan bertambah, dll.
 
