@@ -18,6 +18,7 @@ Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasu
 * Kelemahan : Proyek dunia nyata jarang mengikuti alur proses, Kesulitan jika terjadi perubahan kebutuhan, waktu pengerjaan bertambah, dll.
 
 ### 2. Spiral
+---
 Metode spiral menggabungkan dua metode pengembangan, yaitu prototype dan waterfall. Pengembang melaksanakan prototyping dengan cara sistematis khas metode waterfall. Umumnya metode spiral diterapkan dalam pengembangan perangkat lunak berskala besar, sekaligus membutuhkan sistem yang kompleks. Setiap prosesnya selalu disertai dengan analisis mendalam mengenai tingkat risiko dan keberhasilan pengembangan.
 
 <img src="image/spiral.png">
@@ -25,3 +26,16 @@ Metode spiral menggabungkan dua metode pengembangan, yaitu prototype dan waterfa
 ##### Kelebihan & Kelemahan
 * Kelebihan : Dapat digunakan untuk sistem yang besar, sangat cocok sebagai mekanisme mengurangi resiko
 * Kelemahan : terlalu banyak memikirkan resiko yang akan terjadi, masih jarang digunakan
+
+
+### 3. Metode Agile
+---
+Metode agile merupakan induk dari scrum. Jika scrum adalah kerangka kerja, agile adalah pelaksanaan proyek secara keseluruhan yang berskala besar. Metode ini tergolong modern, karena menekankan pada improvisasi dan adaptasi. Meskipun begitu, alur kerjanya masih menerapkan pola tradisional yang sistematis. 
+
+Salah satu kunci dari agile adalah dokumentasi pekerjaan. Dokumentasi harus tersusun rapi dan terstruktur. Hal ini berkaitan erat dengan metode agile yang bersifat adaptif terhadap perubahan fenomena pengguna perangkat lunak.
+
+##### Kelebihan & kekurangan
+* Kelebihan : Jika berorientasi pada kepuasan pengguna, metode agile menyediakan prosedur yang tepat. Demikian halnya pada proyek besar yang membutuhkan pemeliharaan jangka panjang. Metode agile menguntungkan dari segi efisiensi waktu dan tenaga.
+
+Keunggulan metode agile juga terletak pada adaptasi dan kebebasan bagi pengembang untuk melakukan improvisasi
+* Kekurangan : Tantangan terbesar akan dihadapi pengembang yang terus dipacu untuk beradaptasi dengan perubahan zaman. Tim pengembangan tidak boleh asal pilih, harus solid dan sama-sama berkomitmen kuat.
