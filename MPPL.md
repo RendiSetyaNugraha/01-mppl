@@ -17,3 +17,11 @@ Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasu
 * Kelebihan : Mudah dalam pengelolaan proyek, dokumen dihasilkan setiap akhir fase, fase dijalankan setelah fase sebelumnya selesai, struktur sistem jelas.
 * Kelemahan : Proyek dunia nyata jarang mengikuti alur proses, Kesulitan jika terjadi perubahan kebutuhan, waktu pengerjaan bertambah, dll.
 
+### 2. Spiral
+Metode spiral menggabungkan dua metode pengembangan, yaitu prototype dan waterfall. Pengembang melaksanakan prototyping dengan cara sistematis khas metode waterfall. Umumnya metode spiral diterapkan dalam pengembangan perangkat lunak berskala besar, sekaligus membutuhkan sistem yang kompleks. Setiap prosesnya selalu disertai dengan analisis mendalam mengenai tingkat risiko dan keberhasilan pengembangan.
+
+<img src="image/spiral.png">
+
+##### Kelebihan & Kelemahan
+* Kelebihan : Dapat digunakan untuk sistem yang besar, sangat cocok sebagai mekanisme mengurangi resiko
+* Kelemahan : terlalu banyak memikirkan resiko yang akan terjadi, masih jarang digunakan
